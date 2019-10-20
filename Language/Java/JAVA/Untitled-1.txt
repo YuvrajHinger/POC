@@ -1,0 +1,9 @@
+Q1. 3x3 Matrix
+    a. Transpose
+    b. 3x3 Matrix
+    c. Add
+    d. Multiply
+Q2. Pass input and return output
+    a. Factorial
+    b. Reverse
+    c. Armstrong
